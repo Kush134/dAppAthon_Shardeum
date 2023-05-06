@@ -11,6 +11,7 @@ Explore the world of Open Source with Crypto
 
 <p align="center">
     Link : https://githubcrypt.netlify.app/
+    Made on Shardeum,Web3 Integration in Web2
 </p>
 
 <hr>
